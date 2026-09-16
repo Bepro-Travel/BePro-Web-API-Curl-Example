@@ -17,7 +17,7 @@ Never hard-code these values into source you commit anywhere — pass them as en
 ## Setup
 
 ```bash
-export V23_BASE_URL="https://your_company.beprotravel.com"
+export V23_BASE_URL="https://your_company.beprolink.com"
 export V23_CLIENT_USER="..."
 export V23_CLIENT_PASS="..."
 
